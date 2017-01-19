@@ -1,0 +1,8 @@
+type: zabbix
+catalog: monitoring-tool
+# VMware vSphere is VMware's cloud computing virtualization platform.
+description: |
+  zabbix（音同 zæbix）是一个基于WEB界面的提供分布式系统监视以及网络监视功能的企业级的开源解决方案。
+url: https://www.zabbix.org/wiki/Dockerized_Zabbix
+level: solution
+
