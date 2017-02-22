@@ -6,7 +6,7 @@
             "Object": {
                 "Title": "Zabbix",
                 "ParentUID": "dce.core.navigator.plugins",
-                "Icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+ICA8dGl0bGU+aWNvbl96YWJiaXg8L3RpdGxlPiAgPHBhdGggZD0iTTI3LjksMkg0LjFBMi4xMDYsMi4xMDYsMCwwLDAsMiw0LjFWMjcuOUEyLjEwNiwyLjEwNiwwLDAsMCw0LjEsMzBIMjcuOUEyLjEwNiwyLjEwNiwwLDAsMCwzMCwyNy45VjQuMUEyLjEwNiwyLjEwNiwwLDAsMCwyNy45LDJaTTI0LDI2SDhWMjRMMjAuNDI1LDhIOC44VjZIMjMuMzEyVjhMMTEsMjRIMjRaIi8+PC9zdmc+",
+                "Icon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2032%2032%22%3E%0A%20%20%3Ctitle%3Eicon_zabbix%3C%2Ftitle%3E%0A%20%20%3Cpath%20d%3D%22M27.9%2C2H4.1A2.106%2C2.106%2C0%2C0%2C0%2C2%2C4.1V27.9A2.106%2C2.106%2C0%2C0%2C0%2C4.1%2C30H27.9A2.106%2C2.106%2C0%2C0%2C0%2C30%2C27.9V4.1A2.106%2C2.106%2C0%2C0%2C0%2C27.9%2C2ZM24%2C26H8V24L20.425%2C8H8.8V6H23.312V8L11%2C24H24Z%22%2F%3E%0A%3C%2Fsvg%3E%0A",
                 "NavigationTargetUID": "daocloud.Zabbix.globalView"
             }
         },
